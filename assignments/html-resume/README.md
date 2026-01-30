@@ -35,5 +35,5 @@ Below is a preview of the resume page:
 
 ---
 
-## 📂 Folder Structure
+
 
